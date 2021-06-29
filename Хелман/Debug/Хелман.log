@@ -1,0 +1,6 @@
+﻿  Хелман.cpp
+C:\Users\Home\source\repos\Хелман\Хелман.cpp(21,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Home\source\repos\Хелман\Хелман.cpp(26,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Home\source\repos\Хелман\Хелман.cpp(32,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Home\source\repos\Хелман\Хелман.cpp(34,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Хелман.vcxproj -> C:\Users\Home\source\repos\Хелман\Debug\Хелман.exe
